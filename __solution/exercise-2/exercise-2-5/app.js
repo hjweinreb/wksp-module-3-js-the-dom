@@ -91,3 +91,4 @@ const endRace = setInterval(function() {
         clearInterval(endRace);
     }
 }, 500);
+

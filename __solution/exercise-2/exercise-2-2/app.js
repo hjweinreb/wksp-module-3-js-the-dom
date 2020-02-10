@@ -1,5 +1,5 @@
 // Preset values
-const FROGS = 3;
+const FROGS = 4;
 
 const track = document.getElementById('track');
 
